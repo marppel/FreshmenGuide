@@ -1,1 +1,1 @@
-# FreshmenGuide
+This is the workspace for COMP3851A Project - FreshmenGuide
